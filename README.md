@@ -37,6 +37,21 @@ I enjoy connecting the whole product journey: **understanding a real problem →
 
 [Read my full story →](https://enestoy.com/about)
 
+## ⭐ Featured GitHub repositories
+
+A curated snapshot of my work: backend architecture, React components, algorithm education, interactive storytelling, creative 3D experiences and practical PHP development.
+
+| Repository | Why it matters |
+| :--- | :--- |
+| **01 · [Kairos PHP MVC Framework](https://github.com/enestoy/kairos-php-mvc-framework)** | Lightweight PHP MVC architecture, security, middleware and service design |
+| **02 · [Atom Humans](https://github.com/enestoy/atom-humans-main)** | Reusable React + TypeScript component with interactive, animated Canvas 2D characters |
+| **03 · [PHP Algorithms: Basics to Business](https://github.com/enestoy/PHP-Algorithms-Basics-to-Business)** | Turkish/English algorithm explanations and practical PHP implementations |
+| **04 · [Chronicles of Tiex](https://github.com/enestoy/chronicles-of-tiex)** | A choice-driven 3D narrative RPG with NPC memory, exploration and a branching story |
+| **05 · [Pelagia Aquarium](https://github.com/enestoy/pelagia-aquarium)** | Procedural underwater scenes, marine life and interactive exploration with Three.js |
+| **06 · [30 PHP Projects in 30 Days](https://github.com/enestoy/php-30-projects-in-30-days)** | Hands-on applications covering APIs, MVC, AJAX, authentication and more |
+
+[See all my repositories](https://github.com/enestoy?tab=repositories) · [Explore my games](https://enestoy.com/games)
+
 ## 🚀 Products and projects
 
 A selection of real products and client work. Explore the larger collection on my [project portfolio](https://enestoy.com/projects).
@@ -62,27 +77,9 @@ A selection of real products and client work. Explore the larger collection on m
 | **[Enes Toy · Portfolio](https://enestoy.com/)** | My projects, experience, publications and engineering journey |
 | **[Süper Web Yazılım](https://superwebyazilim.com/)** | Earlier non-profit web studio and digital publishing work (2022–2024) |
 
-## 🧩 Open-source engineering
+## 📘 More open-source learning resources
 
-These repositories reflect what I like to build, explain and share.
-
-| Repository | Focus |
-| :--- | :--- |
-| **[Kairos PHP MVC Framework](https://github.com/enestoy/kairos-php-mvc-framework)** | A lightweight PHP MVC framework with routing, middleware, services and security helpers |
-| **[PHP Algorithms: Basics to Business](https://github.com/enestoy/PHP-Algorithms-Basics-to-Business)** | Bilingual algorithm explanations with practical PHP examples |
-| **[30 PHP Projects in 30 Days](https://github.com/enestoy/php-30-projects-in-30-days)** | 30 small, hands-on PHP applications |
-| **[Top Interview Algorithms](https://github.com/enestoy/Top-Interview-Algorithms)** | Interview-oriented algorithms and data structures in PHP |
-
-## 🎮 Creative coding and interactive worlds
-
-I also build experiences where engineering meets storytelling and exploration.
-
-| Experience | Inside the project |
-| :--- | :--- |
-| **[Chronicles of Tiex](https://github.com/enestoy/chronicles-of-tiex)** | A browser-based 3D narrative RPG with exploration, dialogue and consequential choices, set in my Tiex World universe |
-| **[Pelagia Aquarium](https://github.com/enestoy/pelagia-aquarium)** | An interactive Three.js aquarium with procedural environments, marine life and diver exploration |
-
-[Explore games and experiments →](https://enestoy.com/games)
+Alongside the featured projects, **[Top Interview Algorithms](https://github.com/enestoy/Top-Interview-Algorithms)** provides PHP solutions for technical interview problems. My [full repository list](https://github.com/enestoy?tab=repositories) includes smaller experiments, API integrations and learning materials.
 
 ## 🛠️ Tech and tools
 
