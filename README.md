@@ -1,77 +1,121 @@
-<!-- GitHub profile README for github.com/enestoy -->
+<!--
+  Enes Toy | GitHub Profile README
+  Portfolio: https://enestoy.com
+-->
 
 <div align="center">
 
-# Hi, I'm Enes Toy 👋
+# Enes Toy
 
 ### Full-Stack Developer · Entrepreneur · Open-Source Builder
 
-**I build useful software, turn ideas into products, and occasionally create entire worlds.**
+**I build digital products, engineer practical solutions, and bring ideas to life on the web.**
+
+Based in Türkiye · Building for the world
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-enestoy.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://enestoy.com)
-[![Tiex Software](https://img.shields.io/badge/Company-Tiex_Software-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://tiexsoftware.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enestoy/)
+[![Projects](https://img.shields.io/badge/Explore-Projects-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://enestoy.com/projects)
+[![TIEX](https://img.shields.io/badge/Startup_Ecosystem-TIEX-0F766E?style=for-the-badge)](https://tiex.com.tr/)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enestoy/)
 
 </div>
 
 ---
 
-## A little about me
+## 👨‍💻 About me
 
-I'm a full-stack software developer and entrepreneur based in **Türkiye**. I work primarily with **React, Next.js, TypeScript, PHP, and Laravel**, building everything from polished interfaces to APIs, SaaS platforms, and custom business software.
+I'm **Enes Toy**, a full-stack developer and entrepreneur based in **Kırklareli, Türkiye**. My work spans product engineering, SaaS platforms, custom business software, e-commerce, educational tools, and interactive web experiences.
 
-- 🚀 **Building:** Products and client solutions through [Tiex Software](https://tiexsoftware.com).
-- 🧩 **Engineering:** Clean architecture, practical security, maintainable code, and thoughtful user experience.
-- 📖 **Sharing:** Open-source examples, algorithms, and accessible technical e-books.
-- 🌍 **Experience:** Startup work, product development, and international collaboration on invoicing software.
-- 🎮 **Exploring:** Browser-based 3D experiences, interactive storytelling, and imaginative worlds.
+I enjoy connecting the whole product journey: **understanding a real problem → designing the experience → building the system → shipping and improving it.**
 
-## Selected products & ventures
+- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
+- **Backend:** PHP, Laravel, custom MVC architecture, REST APIs
+- **Engineering interests:** SaaS, database design, performance, security, clean architecture, SEO, and deployment
+- **Beyond work:** Open-source education, digital publishing, game experiments, and fantasy worldbuilding
 
-| Project | What I build |
-| :-- | :-- |
-| **[Tiex Software](https://tiexsoftware.com/)** | My software business focused on web applications, e-commerce, SaaS, and custom solutions. |
-| **[Dil Kursu Paneli](https://dilkursupaneli.com/)** | A SaaS platform for course management, scheduling, attendance, payments, and learning workflows. |
-| **[LifeUp — Yeni Sekme](https://chromewebstore.google.com/detail/beehelmjflakjcafjahmlcebelfibkaf)** | A productivity-focused Chrome extension with tasks, routines, and gamification. |
-| **[Tiex AI](https://tiexai.com/)** | A publication about artificial intelligence, tools, and trends. |
+**My story:** I co-founded **Anka Menü**, a multilingual QR menu and ordering venture; built websites and digital publications through **Süper Web Yazılım**; worked remotely on invoicing software for a company in **France (2024)**; and later established **Tiex Software** to build products and custom solutions.
 
-## Open-source & engineering projects
+[Read my full story →](https://enestoy.com/about)
+
+## 🚀 Products and projects
+
+A selection of real products and client work. Explore the larger collection on my [project portfolio](https://enestoy.com/projects).
+
+| Project | What it does | Stack / focus |
+| :--- | :--- | :--- |
+| **[Dil Kursu Paneli](https://dilkursupaneli.com/)** | Course-management SaaS with scheduling, attendance, payments, reporting and LMS modules | Next.js, TypeScript, PHP, REST API |
+| **[LifeUp — Yeni Sekme](https://chromewebstore.google.com/detail/beehelmjflakjcafjahmlcebelfibkaf)** | A gamified Chrome new-tab workspace for daily tasks, habits and weekly plans | React, PHP, Chrome Extension |
+| **[Tiex Kayıt Aracı](https://chromewebstore.google.com/detail/applkflhhcjhddmghnhhnbbpjbpgjihj)** | Screen recording extension with a movable camera overlay and on-device background effects | JavaScript, Manifest V3, MediaPipe |
+| **[Çocuk Kodlama](https://cocukkodlama.com/)** | Online coding education for children and beginners | Next.js, TypeScript, PHP |
+| **[Quva Parfüm](https://quva.com.tr/)** | E-commerce platform with product discovery, checkout and iyzico payments | Next.js, Laravel, REST API |
+| **[Tiex AI](https://tiexai.com/)** | AI-focused articles, tools, and digital publishing | Next.js, TypeScript, PHP |
+
+## 🏢 The TIEX ecosystem
+
+**[TIEX](https://tiex.com.tr/)** brings together the businesses and digital brands I build.
+
+| Brand | Role |
+| :--- | :--- |
+| **[Tiex Software](https://tiexsoftware.com/)** | Custom software, scalable applications, web platforms and digital solutions |
+| **[Veloria Web](https://veloriaweb.com/)** | E-commerce and custom web solutions for brands |
+| **[Enes Toy · Professional](https://enestoy.com.tr/)** | Freelance services, client work and professional inquiries |
+| **[Enes Toy · Portfolio](https://enestoy.com/)** | My projects, experience, publications and engineering journey |
+| **[Süper Web Yazılım](https://superwebyazilim.com/)** | Earlier non-profit web studio and digital publishing work (2022–2024) |
+
+## 🧩 Open-source engineering
+
+These repositories reflect what I like to build, explain and share.
 
 | Repository | Focus |
-| :-- | :-- |
-| **[Kairos PHP MVC Framework](https://github.com/enestoy/kairos-php-mvc-framework)** | Lightweight MVC architecture with routing, middleware, services, authentication, and security tools. |
-| **[PHP Algorithms: Basics to Business](https://github.com/enestoy/PHP-Algorithms-Basics-to-Business)** | Turkish and English algorithm explanations with practical PHP implementations. |
-| **[30 PHP Projects in 30 Days](https://github.com/enestoy/php-30-projects-in-30-days)** | Thirty hands-on projects covering APIs, MVC, AJAX, authentication, and more. |
-| **[Chronicles of Tiex](https://github.com/enestoy/chronicles-of-tiex)** | An interactive 3D narrative RPG built with Three.js and branching decisions. |
-| **[Pelagia Aquarium](https://github.com/enestoy/pelagia-aquarium)** | An explorable Three.js underwater world with procedural environments. |
+| :--- | :--- |
+| **[Kairos PHP MVC Framework](https://github.com/enestoy/kairos-php-mvc-framework)** | A lightweight PHP MVC framework with routing, middleware, services and security helpers |
+| **[PHP Algorithms: Basics to Business](https://github.com/enestoy/PHP-Algorithms-Basics-to-Business)** | Bilingual algorithm explanations with practical PHP examples |
+| **[30 PHP Projects in 30 Days](https://github.com/enestoy/php-30-projects-in-30-days)** | 30 small, hands-on PHP applications |
+| **[Top Interview Algorithms](https://github.com/enestoy/Top-Interview-Algorithms)** | Interview-oriented algorithms and data structures in PHP |
 
-## Tech stack
+## 🎮 Creative coding and interactive worlds
+
+I also build experiences where engineering meets storytelling and exploration.
+
+| Experience | Inside the project |
+| :--- | :--- |
+| **[Chronicles of Tiex](https://github.com/enestoy/chronicles-of-tiex)** | A browser-based 3D narrative RPG with exploration, dialogue and consequential choices, set in my Tiex World universe |
+| **[Pelagia Aquarium](https://github.com/enestoy/pelagia-aquarium)** | An interactive Three.js aquarium with procedural environments, marine life and diver exploration |
+
+[Explore games and experiments →](https://enestoy.com/games)
+
+## 🛠️ Tech and tools
 
 <div align="center">
 
-![Tech stack](https://skillicons.dev/icons?i=react,nextjs,ts,js,php,laravel,nodejs,tailwind,mysql,postgres,docker,git,threejs&theme=dark)
+![Core technologies: React, Next.js, TypeScript, JavaScript, PHP, Laravel, Node.js, Tailwind CSS, MySQL, PostgreSQL, Docker, Git and Three.js](https://skillicons.dev/icons?i=react,nextjs,ts,js,php,laravel,nodejs,tailwind,mysql,postgres,docker,git,threejs&theme=dark)
 
 </div>
 
-**What I care about:** Full-stack development · SaaS architecture · REST APIs · MVC · Performance · Security · Developer experience
+I care about **maintainability over cleverness**, practical performance, secure foundations and products that actually help people.
 
-## Beyond the code
+## 📚 Writing and sharing
 
-I believe software should solve real problems and feel good to use. I also love writing, teaching, and worldbuilding. Some projects make everyday work easier; others tell stories that could only exist in an interactive world.
+I have published two Turkish e-books to make software concepts easier to learn:
 
-For my professional journey, case studies, and publications, visit **[enestoy.com](https://enestoy.com)**.
+- **[Web Geliştirme Terimleri – Hayal Ederek Anlama](https://enestoy.com/pdf/web-gelistirme-terimleri-e-kitap.pdf)** — understanding web development concepts through clear explanations.
+- **[Yazılımcıların Bilmesi Gereken Algoritmalar](https://enestoy.com/pdf/algoritmalar-e-kitap.pdf)** — approaching algorithms with practical intuition and examples.
 
-## Let's connect
+I also contributed to digital magazine publishing and continue sharing learning-oriented open-source projects.
 
-- 🌐 **Portfolio & writing:** [enestoy.com](https://enestoy.com)
-- 💼 **Freelance work:** [enestoy.com.tr](https://enestoy.com.tr)
-- 🏢 **Company:** [tiexsoftware.com](https://tiexsoftware.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/enestoy](https://www.linkedin.com/in/enestoy/)
-- ✉️ **Email:** [info@enestoy.com](mailto:info@enestoy.com)
+## 🤝 Let's connect
+
+**Building a product, looking for a collaborator, or exploring an idea?**
+
+[Portfolio](https://enestoy.com) · [Projects](https://enestoy.com/projects) · [Professional services](https://enestoy.com.tr/) · [LinkedIn](https://www.linkedin.com/in/enestoy/) · [Email](mailto:info@enestoy.com)
 
 <details>
 <summary><strong>🇹🇷 Türkçe kısa tanıtım</strong></summary>
 
-Merhaba, ben **Enes Toy**. React, Next.js, TypeScript, PHP ve Laravel ile web uygulamaları, SaaS ürünleri ve özel yazılımlar geliştiren bir yazılım geliştirici ve girişimciyim. **Tiex Software** çatısı altında ürünler geliştiriyor, açık kaynak projeler ve teknik yayınlarla öğrendiklerimi paylaşıyorum. Ayrıca **Tiex World** gibi hikâye ve etkileşim odaklı yaratıcı projeler üretiyorum.
+Merhaba, ben **Enes Toy**. Kırklareli merkezli yazılım geliştirici ve girişimciyim. React, Next.js, TypeScript, PHP ve Laravel kullanarak SaaS ürünleri, e-ticaret sistemleri, web uygulamaları ve özel yazılımlar geliştiriyorum. **TIEX** çatısı altında girişimler kuruyor, **Tiex Software** ile yazılım çözümleri sunuyor, açık kaynak projeler ve dijital yayınlarla bilgi paylaşmayı seviyorum.
+
+Ayrıca **Tiex World** gibi yaratıcı dünyalar ve **Three.js** ile etkileşimli deneyimler tasarlıyorum.
+
+**[Projelerim](https://enestoy.com/projects) · [Oyunlarım](https://enestoy.com/games) · [Hakkımda](https://enestoy.com/about) · [TIEX](https://tiex.com.tr/)**
 
 </details>
